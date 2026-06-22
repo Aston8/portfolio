@@ -15,8 +15,7 @@ export default function Contact() {
 
       {/* Description */}
       <p className="mx-auto mt-8 max-w-2xl text-lg leading-9 text-zinc-400">
-        Currently seeking internship opportunities where I can learn,
-        contribute, and grow as a software developer.
+        Open to software engineering opportunities, collaborations, and exciting projects where I can learn, contribute, and create meaningful solutions.
       </p>
 
       {/* Email CTA */}
